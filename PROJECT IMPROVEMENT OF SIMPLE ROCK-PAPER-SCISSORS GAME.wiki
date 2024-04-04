@@ -79,7 +79,7 @@ The current process for software development of the Simple Rock-Paper-Scissors G
 
 # '''Improved Communication Channels''':
 
-* Implement a centralized project management platform such as Github to facilitate transparent communication and collaboration among stakeholders, developers, and designers.
+* Implement a centralized project management platform such as Github to facilitate transparent communication and collaboration among developers and designers.
 * Conduct regular meetings, status updates, and reviews to ensure alignment on project goals, requirements, and progress.
 * Establish clear communication channels for feedback and clarification, such as email, instant messaging platforms, or dedicated discussion forums.
 
@@ -140,7 +140,7 @@ Phase 1: Planning and Preparation
 * Milestone 2: Requirements Gathering
 
 * Date: March 9-11, 2024
-* Objective: Collect detailed requirements for each application from stakeholders.
+* Objective: Collect detailed requirements for this game.
 
 * Milestone 3: Resource Allocation
 
@@ -186,7 +186,7 @@ Phase 4: Deployment and Launch
 * Milestone 11: Deployment and Launch
 
 * Date: April 22 – May 4, 2024
-* Objective: Deploy the Simple Calculator, Simple Rock-Paper-Scissors Game, and Blog Engine to production environments for public use.
+* Objective: Deploy the Simple Rock-Paper-Scissors Game to production environments for public use.
 
 * Milestone 12: Post-launch Review
 
@@ -207,7 +207,7 @@ Phase 5: Maintenance and Support
 
 * Resource Allocation:
 
-* Development Team: Software developers, designers, and QA engineers.
+* Development Team: Software developers and designers.
 * Project Manager: Responsible for overall project coordination, scheduling, and communication.
 
 '''EVALUATION AND RISK ASSESSMENT'''
